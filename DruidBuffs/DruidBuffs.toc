@@ -1,0 +1,10 @@
+## Interface: 20400
+## Title: DruidBuffs
+## Author: Pyralis
+## Version: 1.0
+## Notes: Show who needs druid buffs and cast them with a key binding.
+## SavedVariablesPerCharacter: DruidBuffsSave
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+DruidBuffs.lua
